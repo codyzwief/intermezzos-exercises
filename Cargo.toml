@@ -1,0 +1,6 @@
+[package]
+name = "intermezzos-exercises"
+version = "0.1.0"
+authors = ["cody"]
+
+[dependencies]
